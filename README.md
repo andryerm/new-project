@@ -30,7 +30,7 @@ git merge development
 # Create remote repository on the github
 
 # Push to the github
-git remote add https://github.com/andryerm/new-project.git
+git remote add new-project https://github.com/andryerm/new-project.git
 
 
 
